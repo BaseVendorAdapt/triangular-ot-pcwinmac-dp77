@@ -1,4 +1,4 @@
-# 
+# New triangular arbitrage bot presets for Mac OS | Instant triangular arbitrage bot presets for PC Windows. Featuring mean reversion strategy and event listeners — optimized for maximum performance on every platform.
 
 
 
